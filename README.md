@@ -1,0 +1,3 @@
+# Categorical-Data-Analysis-with-Python-and-R
+
+Inspired by [Doing_bayesian_data_analysis with Python](https://github.com/aloctavodia/Doing_bayesian_data_analysis), this repository includes the Python version of the R programs provided in [Analysis of Categorical Data with R](http://www.chrisbilder.com/categorical/) by [Chris Bilder](http://www.chrisbilder.com/) and [Tom Loughin](http://people.stat.sfu.ca/~tloughin/STATPAGE.html). The R programs and data are available at http://www.chrisbilder.com/categorical/programs_and_data.html. All codes are written in Python 3. This repository also contains alternative R implementation.
