@@ -9,12 +9,9 @@ from scipy.stats import beta
 import matplotlib.pyplot as plt
 import numpy as np
 
-
-
-
 # Let's create an array of 0 to 1
 v = np.linspace(0, 1, num=100)
-#
+
 # Experiment with Beta(a, b) = Beta(5, 5)
 a, b = 5, 5
 plt.plot(v, beta.pdf(v, a, b))
